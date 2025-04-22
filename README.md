@@ -48,7 +48,7 @@ Query examples used for analysis (located in `athena_queries/`):
 
 QuickSight visualizes the final data — popularity trends, genre comparisons, hit distribution.
 
-🖼️ (Add screenshot here if you want: `dashboards/quicksight_screenshot.png`)
+ (`dashboards/Track Success vs. Artist Popularity (Per Genre).png`)
 
 ---
 
